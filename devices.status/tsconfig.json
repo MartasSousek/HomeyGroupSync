@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "node16",
+    "lib": ["ES2022"],
+    "types": ["node"],
+    "moduleResolution": "node16",
+    "allowJs": true,
+    "outDir": ".homeybuild/",
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "strict": false
+  }
+}
